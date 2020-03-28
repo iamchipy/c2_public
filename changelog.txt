@@ -1,0 +1,10 @@
+v2.04
+ - added stopwatch feature
+ - added ini downloader
+
+v2.01
+ - added authentication system
+
+v2.0
+ - creation of new AHK lib by Chipy
+ - fixed self update feature
