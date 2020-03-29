@@ -1,0 +1,22 @@
+KNOWN BUGS
+registration seems to cause errors
+- possibly interp of b64 
+- maybe another part of CUL url_get not correct winhttp.open issue
+
+
+FEATURE REQUEST
+add carka features back in
+- drop tool
+- direct join
+- auto click/swing
+- run/fly lock
+- crop looter
+- seeder
+- action wheel
+add manual override systems
+- hotkeys
+- image search areas
+- fixed coord color/button checks
+add pause/suspend script 
+- using menu
+- out of game

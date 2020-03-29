@@ -1,3 +1,7 @@
+v2.05
+ - added auto consume (food/drink/pots)
+ - fixed stopwatch hours variable being 6 not 60
+
 v2.04
  - added stopwatch feature
  - added ini downloader
