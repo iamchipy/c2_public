@@ -1,6 +1,10 @@
 v2.05
- - added auto consume (food/drink/pots)
+ - added auto consume system with detection and dis/enable toggle in "settings" (food/drink/pots)
+ - added "GPS-to-chat" feature for quick ally informing of location (must select map in settings menu)
+ - added auto walk/fly 
+ - added 'auto-clicker' with custom interval and ability to use custom key
  - fixed stopwatch hours variable being 6 not 60
+ - fixed dev-mode toggle in tray menu
 
 v2.04
  - added stopwatch feature
