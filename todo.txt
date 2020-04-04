@@ -32,3 +32,4 @@ change how bindmanger init items to match settingsmanager
 add client is open check to many things
 - settings manager
 - scenario detection
+add missing image detection
