@@ -10,9 +10,9 @@ add carka features back in
 - direct join
 + auto click/swing
 + run/fly lock
-- crop looter
-- seeder
-- action wheel
++ crop looter
++ seeder
++ action wheel
 add manual override systems
 - hotkeys
 - image search areas
@@ -21,8 +21,8 @@ add pause/suspend script
 - using menu
 - out of game
 add coords to chat feature
-- use https://ark.gamepedia.com/Console_Commands#no_cheat_Commands "CopyCoordsToClipboard"
-- need some kind of map coords conversion system
++ use https://ark.gamepedia.com/Console_Commands#no_cheat_Commands "CopyCoordsToClipboard"
++ need some kind of map coords conversion system
 add console commands
 + ccc
 - stat FPS/unit
