@@ -32,4 +32,5 @@ change how bindmanger init items to match settingsmanager
 add client is open check to many things
 - settings manager
 - scenario detection
-add missing image detection
+add check for missing image before dimention detect throws error
+add passs code feature

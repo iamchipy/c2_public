@@ -1,3 +1,9 @@
+v2.07
+- added single baby feeding loop (alpha testing)
+- added crop-looter back
+- added iquanadon seeder back
+- fixing bloodbot with slight upgrades
+
 v2.05
  - added auto consume system with detection and dis/enable toggle in "settings" (food/drink/pots)
  - added "GPS-to-chat" feature for quick ally informing of location (must select map in settings menu)
