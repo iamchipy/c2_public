@@ -1,8 +1,10 @@
-v2.07
+v2.08
 - added single baby feeding loop (alpha testing)
 - added crop-looter back
 - added iquanadon seeder back
 - fixing bloodbot with slight upgrades
+- fixed part of the item-dropper library replacement
+- patched authorization glitch prevention registration
 
 v2.05
  - added auto consume system with detection and dis/enable toggle in "settings" (food/drink/pots)
