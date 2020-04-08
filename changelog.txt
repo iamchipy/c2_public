@@ -4,6 +4,7 @@ v2.08
 - added iquanadon seeder back
 - fixing bloodbot with slight upgrades
 - fixed part of the item-dropper library replacement
+- fixed issue where update info/changelog was locked/disabled
 - patched authorization glitch prevention registration
 
 v2.05
