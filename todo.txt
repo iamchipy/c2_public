@@ -18,7 +18,7 @@ add manual override systems
 - image search areas
 - fixed coord color/button checks
 add pause/suspend script 
-- using menu
++ using menu
 - out of game
 add coords to chat feature
 + use https://ark.gamepedia.com/Console_Commands#no_cheat_Commands "CopyCoordsToClipboard"
@@ -34,3 +34,4 @@ add client is open check to many things
 - scenario detection
 add check for missing image before dimention detect throws error
 add passs code feature
+add check for first run after updates for missing image checks
