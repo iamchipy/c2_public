@@ -1,3 +1,6 @@
+v2.10 patch
+- hotfix for croplooter/seeder to close blindly
+
 v2.09 patch
 - hotfix for "missing feed_item.png"
 

@@ -1,7 +1,5 @@
 KNOWN BUGS
-registration seems to cause errors
-- possibly interp of b64 
-- maybe another part of CUL url_get not correct winhttp.open issue
+- resolution translation needs work
 
 
 FEATURE REQUEST
@@ -35,3 +33,7 @@ add client is open check to many things
 add check for missing image before dimention detect throws error
 add passs code feature
 add check for first run after updates for missing image checks
+
+
+
+fix install error where it freezes halfway on "update bar"
