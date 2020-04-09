@@ -1,3 +1,6 @@
+v2.09 patch
+- hotfix for "missing feed_item.png"
+
 v2.08
 - added single baby feeding loop (alpha testing)
 - added crop-looter back
