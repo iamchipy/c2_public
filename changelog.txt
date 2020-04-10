@@ -1,3 +1,7 @@
+v2.11
+- added static/blind mode toggler
+- added static/blind mode for blood bot
+
 v2.10 patch
 - hotfix for croplooter/seeder to close blindly
 
