@@ -1,3 +1,6 @@
+v2.13
+- added hp calculations and extra buffer time to static-blind mode of bloodbot
+
 v2.12
 - fixed install/update functions to not get stuck as 50% because it couldn't find exe
 
