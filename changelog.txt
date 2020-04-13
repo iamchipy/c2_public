@@ -1,3 +1,6 @@
+v2.15
+- added version 1 of join-sim to the bot
+
 v2.14
 - hotfix for infinite reboot issue
 - fixed issue with verbose IRFV
