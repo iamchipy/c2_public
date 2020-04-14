@@ -1,5 +1,9 @@
+v2.16
+- updated QnDJS to get user name from CARKA
+- updated registration process for CARKA
+
 v2.15
-- added version 1 of join-sim to the bot
+- added quick-n-dirty-join-sim to the bot (also created by chipy)
 
 v2.14
 - hotfix for infinite reboot issue
