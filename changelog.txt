@@ -1,3 +1,7 @@
+v2.18
+- added owlbot back in
+- added blind/static gatcha collector
+
 v2.16
 - updated QnDJS to get user name from CARKA
 - updated registration process for CARKA

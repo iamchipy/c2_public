@@ -30,10 +30,10 @@ change how bindmanger init items to match settingsmanager
 add client is open check to many things
 - settings manager
 - scenario detection
-add check for missing image before dimention detect throws error
++ add check for missing image before dimention detect throws error | add check for first run after updates for missing image checks
 add passs code feature
-add check for first run after updates for missing image checks
 
-
-
-fix install error where it freezes halfway on "update bar"
+add chibi poping loop
+add loop manager
+- toggles on off timers
+- accepts objbind methods?
