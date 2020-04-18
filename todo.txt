@@ -37,3 +37,6 @@ add chibi poping loop
 add loop manager
 - toggles on off timers
 - accepts objbind methods?
+add gennies calculator
+
+add mode cycle tool

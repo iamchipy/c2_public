@@ -1,3 +1,7 @@
+v2.19
+- added mek attack clicker toggle into auto-repeater
+- changed how bind manager works, to give info about bound items
+
 v2.18
 - added owlbot back in
 - added blind/static gatcha collector
