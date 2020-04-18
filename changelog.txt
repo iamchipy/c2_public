@@ -1,6 +1,9 @@
+v2.20
+- changed how bind manager works, to give info about bound items
+
 v2.19
 - added mek attack clicker toggle into auto-repeater
-- changed how bind manager works, to give info about bound items
+- fixed snowowlbot to consider time in seconds and check toggler
 
 v2.18
 - added owlbot back in
