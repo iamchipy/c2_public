@@ -1,3 +1,6 @@
+v2.21
+- hotfix for bloodbot
+
 v2.20
 - added color based detection mode for inv detection
 - added hotkey/settings reset button with confirmation prompt
