@@ -5,7 +5,7 @@ KNOWN BUGS
 FEATURE REQUEST
 add carka features back in
 - drop tool
-- direct join
++ direct join
 + auto click/swing
 + run/fly lock
 + crop looter

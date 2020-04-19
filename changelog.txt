@@ -1,5 +1,8 @@
 v2.20
+- added color based detection mode for inv detection
+- added hotkey/settings reset button with confirmation prompt
 - changed how bind manager works, to give info about bound items
+- fixed issue with GPS-to-chat function that caused it "do nothing" when there was delay
 
 v2.19
 - added mek attack clicker toggle into auto-repeater
