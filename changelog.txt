@@ -1,3 +1,8 @@
+v2.22
+- hotfix for bloodbot
+- hotfix for username issues
+- note try deleting your config.ini if you are getting 'string' doesn't have bla bla errors
+
 v2.21
 - hotfix for bloodbot
 
