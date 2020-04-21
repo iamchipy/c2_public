@@ -1,3 +1,7 @@
+v2.24
+- hotfix snowowl bot to release right click when toggling off
+- hotfix bloodbot loop
+
 v2.23
 - hotfix to put back the autoclicker hotkey
 - added config delete to for dev mode
