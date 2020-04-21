@@ -1,3 +1,8 @@
+v2.23
+- hotfix to put back the autoclicker hotkey
+- added config delete to for dev mode
+- added dropper/tooler/dumper structures for future implimentation 
+
 v2.22
 - hotfix for bloodbot
 - hotfix for username issues
