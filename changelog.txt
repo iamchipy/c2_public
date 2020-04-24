@@ -1,3 +1,14 @@
+v2.25
+- added functions to settings GUI structures to assist in more complex settings menu options and droppper tool's preset feature
+- added dropper tool back in (ALPHA)
+- added dropper tool settings menu (ALPHA)
+- added filter words variable to settings menu for custom words to filter dropper with with
+- added back the hotkey crosscheck feature 
+- added open-ini-folder option to the tray menu
+- fixed add_settings menu item in dev section for adding servers to join menu
+- fixed snow owl bot not reading rest time
+- fixed join_sim menu item launch error (type mismatch)
+
 v2.24
 - hotfix snowowl bot to release right click when toggling off
 - hotfix bloodbot loop

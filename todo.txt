@@ -12,12 +12,12 @@ add carka features back in
 + seeder
 + action wheel
 add manual override systems
-- hotkeys
++ hotkeys
 - image search areas
 - fixed coord color/button checks
 add pause/suspend script 
 + using menu
-- out of game
++ out of game
 add coords to chat feature
 + use https://ark.gamepedia.com/Console_Commands#no_cheat_Commands "CopyCoordsToClipboard"
 + need some kind of map coords conversion system
@@ -39,3 +39,5 @@ add loop manager
 add gennies calculator
 
 add mode cycle tool
+add custome menu additions 
+add doup character tracker
