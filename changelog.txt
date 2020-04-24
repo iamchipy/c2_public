@@ -1,3 +1,6 @@
+v2.26
+- hotfix issue with binds (ignoring the "enabled" trigger allowing them to function outside of ARK) not workin
+
 v2.25
 - added functions to settings GUI structures to assist in more complex settings menu options and droppper tool's preset feature
 - added dropper tool back in (ALPHA)
