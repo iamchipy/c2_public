@@ -1,3 +1,19 @@
+KNOWN BUGS (as of current version)
+* join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped
+* ini isn't capable of finding steam installs not located on c:\ (by it's self)
+
+v2.28
+- added looter tool back in (ALPHA)
+- added looter tool settings menu (ALPHA)
+- changed how menu-handler builds tray menu to be faster using the new(in AHKv2) switch-case
+- fixed resolution scaler tool to work for EVERY POSSIBLE resolution!? (super proud)
+- fixed dropper loop to be smooth and fast with inv check (lower 'ping_comp' if it's feeling slow)
+
+v2.27
+- added a scaling factor that take screen and UI res into account (many ui scaling)
+- fixed issue with pixel-search for scenario-detector-pix-ext not saving/reading colours right (needing hex vals with 0x)
+- fixed inventory is open *fast* detector
+
 v2.26
 - hotfix issue with binds (ignoring the "enabled" trigger allowing them to function outside of ARK) not workin
 
