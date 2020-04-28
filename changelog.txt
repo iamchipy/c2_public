@@ -1,7 +1,6 @@
 KNOWN BUGS (as of current version)
 * join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped
 * ini isn't capable of finding steam installs not located on c:\ (by it's self)
-*c2.exe downloads it's self to wrong folder (appdata)
 
 v2.29
 - added onscreen-multi function hotkey (with cycle buttons) called ThreeButtonMenu (tbm) that can be used to call any function without needing to open settings panels and rather just cycle through functions until you find the one you want
@@ -11,6 +10,7 @@ v2.29
 - fixed resolution scaler tool to work for EVERY POSSIBLE resolution!? (super proud)
 - fixed bloobot to be a bit more stable
 - fixed dropper loop to be smooth and fast with inv check (lower 'ping_comp' if it's feeling slow)
+- fixed issue with installer not handling computer or user names with spaces in them
 
 v2.27
 - added a scaling factor that take screen and UI res into account (many ui scaling)
