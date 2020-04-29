@@ -1,6 +1,9 @@
-KNOWN BUGS (as of current version)
-* join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped
-* ini isn't capable of finding steam installs not located on c:\ (by it's self)
+KNOWN BUGS (see bottom of list)
+
+v2.30
+- changed the update propt to have a large area for changelog viewing
+- changed how the tbm displays
+- changed how the HUD text is rendered to stop the black artifacts around it
 
 v2.29
 - added onscreen-multi function hotkey (with cycle buttons) called ThreeButtonMenu (tbm) that can be used to call any function without needing to open settings panels and rather just cycle through functions until you find the one you want
@@ -119,3 +122,9 @@ v2.01
 v2.0
  - creation of new AHK lib by Chipy
  - fixed self update feature
+
+KNOWN CURRENT BUGS
+* join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped sends too much data back
+* ini-builder isn't capable of auto-detecting steam install paths not located on c:\
+* ini-builder can't handle many entries in he ini file yet (needs sroll feature)
+* blood bot gets derailed sometimes for undetermined reasons (possibly server desync/lag)
