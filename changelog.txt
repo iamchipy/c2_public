@@ -3,6 +3,11 @@ Coming Soon:
 + added a ingame timestamp to IRL time converter
 + added commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
 + inibuilder update
++ pause feature to stopwatch
+
+v2.34
+- hotfix for auto run toggler changer
+- hotfix for license_obj.string issue
 
 v2.33
 - added Tek Generator fuel/time calculator
