@@ -1,9 +1,13 @@
 Known bugs (see bottom of list)
-Coming Soon:
-+ added a ingame timestamp to IRL time converter
-+ added commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
+Requested Future Features:
++ add commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
 + inibuilder update
 + pause feature to stopwatch
++ cake cycling script
++ action wheel preset tool
+
+v2.35
+- added a ingame timestamp/log to IRL time converter
 
 v2.34
 - hotfix for auto run toggler changer
