@@ -1,4 +1,13 @@
-KNOWN BUGS (see bottom of list)
+Known bugs (see bottom of list)
+Coming Soon:
++ added a ingame timestamp to IRL time converter
++ added commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
++ inibuilder update
+
+v2.33
+- added Tek Generator fuel/time calculator
+- added a reload(with admin) option to the tray menu to help with debugging and broken hotkeys
+- fixed hotkey binding bug stopping keys from working in game
 
 v2.32
 - added revert system to the installer allowing you to revert to a previously installed version simply by running the installer again should something go wrong
