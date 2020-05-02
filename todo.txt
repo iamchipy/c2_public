@@ -6,4 +6,3 @@ add console commands
 - stat FPS/unit
 - debugstructure
 - SetGraphicsQuality 
-

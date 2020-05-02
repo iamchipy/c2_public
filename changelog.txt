@@ -5,6 +5,11 @@ Requested Future Features:
 + pause feature to stopwatch
 + cake cycling script
 + action wheel preset tool
++ join_sim fix
+
+v2.37
+- added gatcha script (rough draft & untested)
+- fixed a few issue with bloodbot, should be more stable now. Albeit not perfect
 
 v2.35
 - added a ingame timestamp/log to IRL time converter
@@ -148,4 +153,4 @@ KNOWN CURRENT BUGS
 * join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped sends too much data back
 * ini-builder isn't capable of auto-detecting steam install paths not located on c:\
 * ini-builder can't handle many entries in he ini file yet (needs sroll feature)
-* blood bot gets derailed sometimes for undetermined reasons (possibly server desync/lag)
+* gacha script is untested
