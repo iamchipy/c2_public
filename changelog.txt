@@ -1,11 +1,8 @@
 Known bugs (see bottom of list)
-Requested Future Features:
-+ add commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
-+ inibuilder update
-+ pause feature to stopwatch
-+ cake cycling script
-+ action wheel preset tool
-+ join_sim fix
+Requested Future Features (see bottom of list)
+
+v2.39
+- updated time calculator to also accept time in D*HHMM format, any number of days followed directly by 2 digit hours and 2 digit mins allows you to not have to use punctuation 
 
 v2.37
 - added gatcha script (rough draft & untested)
@@ -148,6 +145,14 @@ v2.01
 v2.0
  - creation of new AHK lib by Chipy
  - fixed self update feature
+
+FEATURE REQUEST/WISHLIST
++ add commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
++ inibuilder update
++ pause feature to stopwatch
++ cake cycling script
++ action wheel preset tool
++ join_sim fix
 
 KNOWN CURRENT BUGS
 * join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped sends too much data back
