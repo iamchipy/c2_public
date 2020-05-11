@@ -1,6 +1,10 @@
 Known bugs (see bottom of list)
 Requested Future Features (see bottom of list)
 
+v2.40
+- added Event Multiplier query tool (see tray-menu)
+- added ini-preset loader (see tray-menu) as a way to load entire ini files, while the ini-builder is broken
+
 v2.39
 - updated time calculator to also accept time in D*HHMM format, any number of days followed directly by 2 digit hours and 2 digit mins allows you to not have to use punctuation 
 
