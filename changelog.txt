@@ -1,5 +1,8 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
+v2.41 
+- hotfix for berry feeding temp added
+
 v2.41
 - added ark-is-open detects allowing C2 to launch ark in +connect mode if ark is currently close for more reliable joining of servers.
 - added brute-force join bot, that closes ark upon timeout (to clear cache) and attempts to reconnect to the desired server 
