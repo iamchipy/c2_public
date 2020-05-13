@@ -1,5 +1,10 @@
-Known bugs (see bottom of list)
-Requested Future Features (see bottom of list)
+Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
+
+v2.41
+- added ark-is-open detects allowing C2 to launch ark in +connect mode if ark is currently close for more reliable joining of servers.
+- added brute-force join bot, that closes ark upon timeout (to clear cache) and attempts to reconnect to the desired server 
+- changed the tray menu to be better organized and be somewhat in 'catagories'
+- changed out click_loc works to allow for coord-location that do not require UI-compensation skip that step and thus stay accurate
 
 v2.40
 - added Event Multiplier query tool (see tray-menu)
@@ -149,17 +154,3 @@ v2.01
 v2.0
  - creation of new AHK lib by Chipy
  - fixed self update feature
-
-FEATURE REQUEST/WISHLIST
-+ add commonly useful console commands (debugstructures, FPSunit, SetGraphQuality)
-+ inibuilder update
-+ pause feature to stopwatch
-+ cake cycling script
-+ action wheel preset tool
-+ join_sim fix
-
-KNOWN CURRENT BUGS
-* join_sim missing winPcap install / issue with missing "raise_from()" issue when server capped sends too much data back
-* ini-builder isn't capable of auto-detecting steam install paths not located on c:\
-* ini-builder can't handle many entries in he ini file yet (needs sroll feature)
-* gacha script is untested
