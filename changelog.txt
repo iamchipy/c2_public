@@ -1,6 +1,7 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
-v2.41 
+v2.43
+- hotfix for updater causing issues with gui.color()
 - hotfix for berry feeding temp added
 
 v2.41
