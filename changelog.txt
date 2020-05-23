@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
+v2.44
+- changed how the join-sim bot works a little, hoping to make things abit more stable, lots of tweeks and tests
+
 v2.43
+- changed how BattleMetrics link works and tries to auto search offical servers from a prompt
 - hotfix for updater causing issues with gui.color()
 - hotfix for berry feeding temp added
 
