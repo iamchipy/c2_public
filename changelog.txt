@@ -1,7 +1,9 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
-v2.44
+v2.45
 - changed how the join-sim bot works a little, hoping to make things abit more stable, lots of tweeks and tests
+- fixed discord link
+- fixed infinite update loop
 
 v2.43
 - changed how BattleMetrics link works and tries to auto search offical servers from a prompt
