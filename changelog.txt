@@ -1,5 +1,8 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
+v2.48
+- added a new pages system for GUI systems to help with guis that the go off the screen when there are too many options. This should only be a short-term fix until a scroll-bar can be coded.
+
 v2.47
 - hotfix for license error (fail to locate sgmsm)
 
