@@ -1,5 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
+v2.50
+- added new taskbar icons (right-click tray->dev mode->verify all to force images to update)
+- added some internal changes to comply with digital signing for windows
+- added code signing, c2 should now have a digital certificate that windows will accept
+
 v2.49
 - hotfix for issue with pages messing up looter-settings GUI 
 - hotfix for issues with the TBM showing each item 2x or showing invalid functions
