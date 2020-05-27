@@ -1,5 +1,6 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
+WARNING THIS UPDATE breaks the GUI for looter-settings temporarily
 v2.48
 - added a new pages system for GUI systems to help with guis that the go off the screen when there are too many options. This should only be a short-term fix until a scroll-bar can be coded.
 
