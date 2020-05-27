@@ -1,5 +1,8 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 
+v2.47
+- hotfix for license error (fail to locate sgmsm)
+
 v2.46
 - changed how the join-sim bot works a little, hoping to make things abit more stable, lots of tweeks and tests
 - fixed discord link
