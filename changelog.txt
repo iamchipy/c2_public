@@ -1,6 +1,11 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.52
+- added inputblocking during actions for; gps_to_chat, dropper, looter, crop looter, action wheel, feeding assistant
+- changed some timing on blood bot
+- changed how GPS to chat handles chat output, now copied to clipboard only 
+
 v2.51
 - added TDL's ini as a preset
 
