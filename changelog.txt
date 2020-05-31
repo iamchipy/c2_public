@@ -1,4 +1,8 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
+I FINALLY HAVE CARKA-2 code-signed!
+
+v2.51
+- added TDL's ini as a preset
 
 v2.50
 - added new taskbar icons (right-click tray->dev mode->verify all to force images to update)
