@@ -1,6 +1,9 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.54
+- added a "Run on Startup" feature to the system tray that should cause the script to automatically run on startup
+
 v2.53
 - added font size feature (to help scale GUIs properly for those on 4k)[thi will need testing]
 - changed GPS-to-chat to display in geographical coordinate order (lat, long) instead of mathematical (x, y)

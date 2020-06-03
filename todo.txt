@@ -6,7 +6,12 @@ add console commands
 - stat FPS/unit
 - debugstructure
 - SetGraphQuality 
+- disconn
 
 
 add cloning cost calc
-add current event multiplier settings
+add run-on-startup
+
+
+
+test postclick
