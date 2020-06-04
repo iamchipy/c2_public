@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.55
+- added text size scaler to TBM (function cycle HUD at top of screen) so it should scale with  GUI_Text_Size setting too now
+
+
 v2.54
 - added a "Run on Startup" feature to the system tray that should cause the script to automatically run on startup
 
