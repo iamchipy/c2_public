@@ -1,6 +1,11 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.57
+- added scale setting to adjust crosshair size
+- added some more custom crosshair images
+- changed how the dependency system check for files 
+
 v2.56
 - added a CUSTOM crosshair overlay system (256x256 centered PNG with transparency required)
 - changed how the authentication function happens to import it's ability to notice that one's license is registered
