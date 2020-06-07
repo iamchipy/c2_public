@@ -5,6 +5,7 @@ v2.57
 - added scale setting to adjust crosshair size
 - added some more custom crosshair images
 - changed how the dependency system check for files 
+- changed how user blocking function works
 
 v2.56
 - added a CUSTOM crosshair overlay system (256x256 centered PNG with transparency required)
