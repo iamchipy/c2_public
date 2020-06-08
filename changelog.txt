@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.58
+- added auto-pooper formaking fert with a toilet (BETA)
+- fixed snow owl bot (returned it to the older more stable system)
+
 v2.57
 - added scale setting to adjust crosshair size
 - added some more custom crosshair images
