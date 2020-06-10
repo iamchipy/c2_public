@@ -1,6 +1,16 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.59
+- added NEW feature stealth_swinger (CoC-gray area) that lets you swing anklo tail while ARK is in the background
+- added (FINNALY) a presets function to the ActionWheelTool (changes and custom presets can be done in config.ini)
+- added a CoC warning notification to features that involve ToC, CoC or BattleEye conflicts
+- added more useful links to the 'utilities' sub-menu
+- added some new folder opens to the utilities sub-menu (like canvas or "paintings" folder and dino export folder)
+- changed how some variables are accessed to allow for a cleaner and more flexible config.ini
+- changed how settings GUI displays variables to allow for simplier menus 
+- moved the openWD folder submenu to be with new utilities sub-menu section
+
 v2.58
 - added auto-pooper formaking fert with a toilet (BETA)
 - fixed snow owl bot (returned it to the older more stable system)
