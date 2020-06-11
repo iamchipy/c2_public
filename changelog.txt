@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.61
+- added a shortcut (in dev-mode sub-menu) to the place that lets you show/hide your tray icons to let C2 not be hidden to an extra step of convenience 
+- added GPS support for crystal isles
+
 v2.59
 - added NEW feature stealth_swinger (CoC-gray area) that lets you swing anklo tail while ARK is in the background
 - added (FINNALY) a presets function to the ActionWheelTool (changes and custom presets can be done in config.ini)
