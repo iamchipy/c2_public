@@ -1,6 +1,14 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.63
+- added ingame-use-key settings
+- changed somethings in blood-bot to help with it's ability to open tekpod
+
+v2.62
+- added new crosshair options (including cleaner crosses that scale pixel-perfectly for clean dots)
+- added AK's ini to presets
+
 v2.61
 - added a shortcut (in dev-mode sub-menu) to the place that lets you show/hide your tray icons to let C2 not be hidden to an extra step of convenience 
 - added GPS support for crystal isles
