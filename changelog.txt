@@ -1,6 +1,11 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.65
+- added consume timer setting to allow user to set how ofter the auto eat functions (in crystal catcher)
+- added auto-update setting so you can turn off the update check if you need
+- fixed how crystal catcher handled whip detection
+
 v2.64
 - added (ALPHA) crystal catcher loop for collecting gatcha tower crystals
 - added discord_feedback_channel for letting the bot send push notifications if desired
