@@ -1,6 +1,14 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.64
+- added (ALPHA) crystal catcher loop for collecting gatcha tower crystals
+- added discord_feedback_channel for letting the bot send push notifications if desired
+- added fail-to-find ARK folder message
+- added coordinate object class
+- added ui_scale function for hotbar to handle dynamic resolutions
+- fixed some spelling errors
+
 v2.63
 - added ingame-use-key settings
 - changed somethings in blood-bot to help with it's ability to open tekpod
