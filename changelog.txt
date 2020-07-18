@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.66
+- changed how the auto-repeater (auto-clicker) worked so now it can run outside of ark too incase you need an auto-clicker
+- fixed some know trojan-alert triggers to attempt to fix windows-defender issue
+
 v2.65
 - added consume timer setting to allow user to set how ofter the auto eat functions (in crystal catcher)
 - added auto-update setting so you can turn off the update check if you need
