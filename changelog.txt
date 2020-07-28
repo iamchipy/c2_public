@@ -1,6 +1,9 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.67
+- removed stealth swingers in an attempt to fix Windows Defender thinking it's a trojan
+
 v2.66
 - changed how the auto-repeater (auto-clicker) worked so now it can run outside of ark too incase you need an auto-clicker
 - fixed some know trojan-alert triggers to attempt to fix windows-defender issue
