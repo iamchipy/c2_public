@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.68
+- implementing a proper packaging and install-constructor in an attempt to avoid trojan like activities
+- changed where cleep() gets it's timer from to try live fetch .ping_comp info
+
 v2.67
 - removed stealth swingers in an attempt to fix Windows Defender thinking it's a trojan
 
