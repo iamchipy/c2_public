@@ -1,6 +1,11 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.70
+- changed how scaling works for Add Setting from add server sub menu so that it scales with text
+- changed how CARKA-2 is installed to play nicer with window's internal file processing protection
+- changed where settings are stored for CARKA-2
+
 v2.68
 - implementing a proper packaging and install-constructor in an attempt to avoid trojan like activities
 - changed where cleep() gets it's timer from to try live fetch .ping_comp info
