@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.71
+- Run As Admin is still needed
+- fixed some issue with UI glitching
+
 v2.70
 - changed how scaling works for Add Setting from add server sub menu so that it scales with text
 - changed how CARKA-2 is installed to play nicer with window's internal file processing protection
