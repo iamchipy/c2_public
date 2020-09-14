@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.72
+- changed out Berry Shuffler works to minimize the over shuffling to one's own inv
+- fixed the mapping for the Looter tool
+
 v2.71
 - Run As Admin is still needed
 - fixed some issue with UI glitching
