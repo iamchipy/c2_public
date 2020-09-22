@@ -1,6 +1,10 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.73
+- added prompt to be run in admin mode for the time being due to 'failed to find dimention' errors caused by img sizing being stored in program files
+- changed speed/process of crystal catcher to work a litte more stably
+
 v2.72
 - changed out Berry Shuffler works to minimize the over shuffling to one's own inv
 - fixed the mapping for the Looter tool
