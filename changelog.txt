@@ -1,6 +1,12 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.74
+- added pixel_correction_tool which allows users to re-pick/assign pixel coordinates with an override using local settings
+- added new ui detection method (BETA) that uses a pixel delta variation to "read" the health/food/drink ui elements on any resolution
+- added 'detection-delta' variable to increase or reduce new ui detection sensitivity
+- changed the install process a little and changed ifrv permissions to help with the need for admin
+
 v2.73
 - added prompt to be run in admin mode for the time being due to 'failed to find dimention' errors caused by img sizing being stored in program files
 - changed speed/process of crystal catcher to work a litte more stably
