@@ -1,6 +1,15 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.77
+- added hotkey and TBM options for Query Server Multipliers
+- added a prompt to import settings from previous versions for migrating 
+- fixed some stability issue causing some CPUs to prevent CARKA from being installed (app now runs in 32bit mode only)
+
+v2.75 
+- fixed issues with pixel_correction_tool failing on binds
+- fixed permissions issue that was causing dimention issues and required admin elevation
+
 v2.74
 - added pixel_correction_tool which allows users to re-pick/assign pixel coordinates with an override using local settings
 - added new ui detection method (BETA) that uses a pixel delta variation to "read" the health/food/drink ui elements on any resolution
