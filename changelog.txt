@@ -1,6 +1,9 @@
 Known bugs & Requested Future Features (join us discord.gg/tAnhTtX)
 I FINALLY HAVE CARKA-2 code-signed!
 
+v2.78 
+- Hotfix for the target/dino UI update from Feb 11th
+
 v2.77
 - added hotkey and TBM options for Query Server Multipliers
 - added a prompt to import settings from previous versions for migrating 
